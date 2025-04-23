@@ -25,14 +25,12 @@ for type in urls.keys():
     print(request.text)
     j = json.loads(request.text)
     task_ids[url] = j['task_id']
-    break
 #/health endpoint after sending tasks
 request = requests.get(URL+"/health")
 print('request get /health after sending tasks:')
 print(request.text)
 sleep(30)
 for url in task_ids.keys():
-    break
     while True:
         task_id=task_ids[url]
         print(f'posting /get_result request for site {url}')
