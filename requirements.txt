@@ -1,0 +1,11 @@
+opencv-python 
+requests 
+numpy 
+beautifulsoup4 
+imutils 
+scikit-learn
+fastapi
+requests
+uvicorn
+Redis
+tornado
