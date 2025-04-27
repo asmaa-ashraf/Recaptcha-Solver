@@ -1,0 +1,176 @@
+tid,problem_excerpt
+20307,"hi there, i attached the key to my software and it has connected but when im trying to solve captchas its not working. is it maybe because my software runs it in the back and it..."
+20375,"Dear technical support team, I am currently working on a project where I need to use the API to generate and query IDs. I have been testing the ID generation through the POST me..."
+20446,hi. i am having issues with case sensitive captchas by using captchaai. it always return answer in small alphabets. i want it to return answer always in case sensitive letters. ...
+20617,"I Test using this code but the response is &quot;CaptchaAI INTERNAL ERROR: PROBABLY, INCORRECT REQUEST&quot; Can you help me? const axios = require('axios'); const fs = require(..."
+49091,"Dear, Welcome to CaptchaAi, Glad to help you Can you please tell me more about your issue so that I can be able to assist you?"
+49096,"Dear, Welcome to CaptchaAi Actually, Coding support is limited here, But I will send it to the developer team if there is a chance to support us with that and help in debugging...."
+49103,"Dear, Glad to help you Can you please tell me more about your issue so that I can be able to assist you?"
+49143,Send the request through API to solve hCaptcha. Waited for around 3 minutes and get the response 'ERROR_CAPTCHA_UNSOLVABLE'. I added the required parameters in the GET request a...
+49257,"Dear Chonchol, Kindly note that I've addressed your issue on a different ticket #49258. Follow up with your request there and I am going to close this ticket. Thanks for your un..."
+49350,"Dear, May I learn more about the error you got while solving your Captchas so as to be able to assist you better? More so, you can also go through this link to check if you're n..."
+49469,"Dear Natalia T, Welcome to CaptchaAi There might have been some downtime, but our servers are now back to work. Try again and let us know if you still have any issues."
+49637,"İt is a nft buy sell automation program made by us. İt is going to work on crypto.com, we are developing it with python and application needs to solve the captcha problem on eve..."
+49657,I can't solve this site's captcha using your api url : https://play.hit23.club/ query string parameter : ar: 1 k: 6LcRfskaAAAAAPLbAdyH3WCygmXJ4KWietpBc_UA co: aHR0cHM6Ly9wbGF5Lm...
+49747,normal captcha example public async Task&lt;string&gt; PostSolve() { byte[] bytes = File.ReadAllBytes(&quot;Captcha.jpg&quot;); string base64string = Convert.ToBase64String(byte...
+49848,"Dear, We apologize for any inconveniences. Please provide a screenshot of the error you encountered during this process so that we can investigate and offer further assistance. ..."
+49939,"Hi, I understand your request And we are already aware of this issue, currently it is hard to use custom useragent while solving hCaptcha so if the result token you got from us ..."
+49967,Please let me know more about your problem
+50045,"Hello, i have problem with solving HCaptcha, here is my data &quot;c370dc2a-e9f7-46b4-a261-05f7a7e14d6c&quot;, &quot;https://gopulse.com&quot; Error: ERROR_CAPTCHA_UNSOLVABLE I ..."
+50141,"import easyimap def email_imap_tool(email_address, password): try: # 连接到 Outlook.com 的 IMAP 服务器 imapper = easyimap.connect('outlook.office365.com', email_address, password) # 遍历..."
+51020,"Hello, im using your api to solve normal captchas but I have issues with the response im getting, because I need the captcha value to be case sensitive but im getting a response..."
+51062,"Hello! I'm trying to resolve reCAPTCHA v3 when logging in via captchaai, https://www.warframe.com/login. But I tried everything from 0.3 to 0.9 and all returned verification fai..."
+51068,"Dear Guilherme, Welcome to CaptchaAI We apologize for any inconvenience that may occur There have been some updates regarding this type of captcha. Have you tried again? The iss..."
+51241,"Dear Mohammed Ubeadulla, Welcome to CaptchaAI Your issue has been forwarded to our internal team. We appreciate your patience and understanding."
+51270,"Hi, I'm trying to solve the captchas for habbo.fr, with anticaptcha.com it works. Its invisible hcaptcha For this, I send: submit_url = &quot;https://ocr.captchaai.com/in.php&qu..."
+51275,Hi. we are experiencing issues when trying to resolve hcaptcha challenges we are always receiving the ERROR_CAPTCHA_UNSOLVABLE error.
+51380,"import requests import time # Send request to solve hCaptcha def solve_hcaptcha(api_key, site_key, page_url): # Submit request to solve hCaptcha solve_request = requests.get(f&q..."
+51389,"I can't do it, can you send me the complete request with the correct form please here is my information for recaptcha v3 api key = 36bc958652695bc03065ddffbc61657d googlekey = 6..."
+51436,"Hello, every hcaptcha request I make gets the same error: ERROR_CAPTCHA_UNSOLVABLE Here is the request url I'm using: https://ocr.captchaai.com/in.php?key=dfffae8c9cbeec5042eabf..."
+51557,I'm loosing a lot of money cause of that downtime yesterday and now with that solving rate... I expect a reply from you why this happened and how you would like to solve this is...
+51581,Dear captchaAi. Other services usually take 1 or 2 days in building a custom module for free. But captchaAi takes much time. In weeks usually. Kindly fix this issue for customer...
+51727,"my code in js async function submitCaptcha(apiKey, base64Image) { try { const response = await fetch('https://ocr.captchaai.com/in.php', { method: 'POST', headers: { 'Content-Ty..."
+51781,"The documentation says that &quot;Currently it's almost impossible to get token with score higher than 0.3&quot;. This means that if I specify a min_score greater than 0.3, ther..."
+51795,"Dear, Welcome to CaptchaAi Have you tried our other modules here? https://captchaai.com/custom-images.php If you can't find the right module for you, you can provide us with the..."
+51817,"Hi, Thank you for your question regarding reCAPTCHA v3 token scores. Here’s a detailed explanation to help you understand the min_score parameter and how it works: If you specif..."
+51844,I would like to follow-up on this. Is there any update regarding this issue? We would highly appreciate if you could expedite resolution of this issue. Thanks
+51846,Today the service is unstable and constantly showing the error api_connection_error Can you help me asap? Thanks.
+51859,"Hello there, My friend recently got a 5 thread key, he asked me to make him a program that logs into a account. However it keeps saying that the recpacha is invalid and I'm just..."
+51880,"Hello, I hope this message finds you well. I am writing to seek assistance with a Python script I am using to solve CAPTCHA images through the CaptchaAI service. I you could pro..."
+51889,"Still not working, I have also tried with the useragent and cookies. Please help us. cookies: AEC=AQTF6HyX423f-dVLOj1rXxj5QJgH5q67FaMSsLnfvw9m1phXPoV16wtotQ; NID=514=O94ZvEuzVzz..."
+51890,apis not working. we are getting ERROR_SERVER_ERROR in the response. please help.
+51893,"send file Uzak sunucu hata döndürdü: (500) İç Sunucu Hatası. give me 500 error but get page url return CaptchaAI**IN, servis is not working"
+51894,"Hi there, Welcome to CaptchaAI. Please share a screenshot or video of the issue so we can address it."
+51897,"As said, the recap v3 solves are not working"
+51898,"hi need help for this site cap solver ,i trid but fail ,can you help me confom this site no work with our solver https://www.petro-canada.ca/en/personal?modalUrl=%2Fen%2Fpersona..."
+51901,"hello there, your api endpoint https://ocr.captchaai.com/solve.php suddenly return error 500. everything works fine until just now here is the attachment https://imgur.com/a/xk6..."
+51902,this form not working return 500 internal server error ? &lt;form method=&quot;post&quot; action=&quot;https://ocr.captchaai.com/in.php&quot; enctype=&quot;multipart/form-data&q...
+51906,I'm getting internal server error as response while solving image captcha. please resolve this issue.
+51907,Hello. we are facing issue in connecting api in rankerx. can you please check all services are working fine. Thanks
+51976,"Dear Ronit Kumar Patel, Thank you for reaching out to CaptchaAI.com support. We are here to help you integrate our captcha-solving services into your API. Here’s a detailed guid..."
+51978,"I'm trying to solve captcha v3, the api responds correctly but the token that the api returns doesn't work. The website I need is: https://cadin.pr.gov.br/cadin/publico/pendenci..."
+52002,Captchaai can't solve discord gen captchas so it is unusable for me
+52009,when I try to solve a text captcha with the ocr module name &quot;common-1&quot; I have the following error &quot;The request entity exceeds the maximum allowed.&quot; note the ...
+52018,How can I see the number and ratio of successes and failures?
+52023,"Hello, I use captchaai for faucet collector software and i've in 98% of time : ERROR_CAPTCHA_UNSOLVABLE , for hcaptcha (I use it only for hcaptcha so i Don't know if it same wit..."
+52034,"Hello, Thank you for using our service. Below is a detailed guide on how to integrate CaptchaAI to solve invisible CAPTCHA and reCAPTCHA V3 using the requests module and Scrapy...."
+52040,"Hi there, Welcome to CaptchaAI. Please provide us with the used integration, Captcha type, Site Key, Page URL, and screenshot or video of the issue to get more in touch with it"
+52043,"Hello, Thank you for reaching out to CaptchaAI support. The error message indicates that your CaptchaAI account does not have sufficient balance to process the captcha solving r..."
+52084,"Hello, yes sir its still totally working fine without any issue."
+52129,"Dear Syed Noman , We are sorry this happened to you. We are here to solve any issue you're facing. Please update us with the kind of error you got while solving the Captcha, and..."
+52172,Failed to start captcha solve: ERROR_WRONG_USER_KEY Failed to solve hCaptcha. Aborting registration. Process finished with exit code 0 def solve_captcha(): solve_url = &quot;htt...
+52183,I get an error when solving ReCAPTCHA verification issue. Score is too low and an error when reporting a bad captcha ERROR_METHOD_ERROR
+52184,"Dear Alper, Welcome to CaptchaAI We apologize for any issues you may have encountered while using our service. Your satisfaction is our utmost priority, and we are committed to ..."
+52190,"Dear mohammed, My apologies for encountering such an issue. Can you tell me more about the issue you have so that I can guide you? If possible you can provide me with a screensh..."
+52197,I have a code which generates accounts on the following website but i'm unable to impliment captchaai could you help me do this the captcha happens after email submission and is...
+52198,"Hello kevin, Thank you for reaching out. I'd be happy to provide a code snippet that demonstrates how to use our API with Selenium to handle a hidden captcha. This example will ..."
+52227,Received Payload: {&quot;errors&quot;:[{&quot;code&quot;:&quot;INVALID_CAPTCHA&quot;}]} &gt;&gt; Keycheck (CheckCondition) &lt;&lt; Matched key {&quot;errors&quot;:[{&quot;code&...
+52296,"Dear, Welcome to CaptchaAi Regarding hCaptcha, we want to let you know that there have been updates to its internal scripts, including encoding changes. Our team is actively wor..."
+52336,api key is not working
+52367,"Hello, I'm trying to test the service to resolve hCaptcha, however, in all the tests I've tried the response is &quot;ERROR_CAPTCHA_UNSOLVABLE&quot;. Can you check, please? Requ..."
+52396,"Dear, We apologize for any inconvenience Please note that this may occur due to a temporary server error that shows up occasionally. You can try again after 10 seconds. If you g..."
+52397,"this page not working than 1 hour whats the problem ? return this message CaptchaAI INTERNAL ERROR: PROBABLY, INCORRECT REQUEST &lt;form method=&quot;post&quot; action=&quot;htt..."
+52399,Hello your OCR Module is responding with wrong extracted text from the provided base64 image. Please solve it ASAP am losing my customers trust
+52412,"Hi, today we get a lot of http status code 503 when calling your API. Any problems in solving captchas today? kind regards"
+52431,PLease free tarail after slect chose plan.I chek for website fast working or not working.
+52444,"Hello Sir, Could you please provide us a sample of images, we can't find and sample in link you provided. Best regards,"
+52453,"Hello Sir, Thank you for reaching out to CAPTCHA AI support! We're happy to help you integrate our CAPTCHA service into your existing code. Here are the general steps you can fo..."
+52467,"I'm encountering an issue with solving an invisible reCAPTCHA V2 on the following website: URL: https://suretesmobilieres.fr/rechercheParSiren Input field: SIREN number (e.g., 4..."
+52477,"Hello, o create an API that fetches an image via a link and then sends it to our service. You can follow the structure blew. 1. Set Up the Flask API: Flask is a lightweight web ..."
+52538,I'm using your chrome extension &amp; API: https://chromewebstore.google.com/detail/captchaai-captcha-solver/fnnmnnfpdnlkccecmiicejhimhkbolhk I'm unable to solve captcha using t...
+52544,base64: iVBORw0KGgoAAAANSUhEUgAAAMgAAABkCAIAAABM5OhcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABMRSURBVHhe7d15UFPn3gfwzvSv9s5crXPr28W+Xaa3ra1WWlC0tyjV9...
+52550,I have a case sensitive captcha image which module i should use t o get the correct value. since i am getting wrong values when i test it with my images. Please help.
+52557,The api fails to solve the captcha here https://signup.gmx.com/#.1559516-header-signup1-1
+52576,"Dear, Thanks for reaching out to CaptchaAi We need to understand the score you need to solve V3. You can't predict the acceptable score for the website you want to solve. It can..."
+52589,"Hello, I have already renewed my subscription with you and I would like to expand my plan, but I cannot find a model that can solve the following captchas, they are simple numbe..."
+52629,"Dear CaptchaAI Support Team, I am considering subscribing to CaptchaAI for solving reCAPTCHA V2 challenges and have a specific question regarding its usage. I am concerned about..."
+52666,"Hello Team, I am encountering an issue with your captcha-solving API. The captcha I am working with contains a mix of uppercase letters, lowercase letters, and digits. However, ..."
+52719,Hello! I'm solving captchas and it works well but sometimes it gets stuck and returns the same response for different inputs. The response is usually &quot;bine&quot; or &quot;b...
+52728,Hi. I was doing some testings with the hCaptcha in another websites but i got the same error in some hCpatcha versions: Website: https://2captcha.com/demo/hcaptcha?difficulty=mo...
+52740,"Hello, I'm trying to request your server with CURL methods through PHP, unfortunatly I get the above error message. Can you please provide a sample code? Best regards"
+52748,"Hello, I installed and activated the chome extension captchaai but it dosen't work to solve Recaptcha. When inspecting its says that there is error in hunter.js &quot;Failed to ..."
+52773,hello sir i have to buy month plan standard with 15 threard butt its not working wich site i want to work iam allredy using turecapcha.org is working fine iam trying to ur siste...
+52780,hello sir i want fully refund back if ur service not work with chrome extention with our mention site blow i have mention details about my problem thanks ***********************...
+52794,"Hello, We have integrated with the new image captcha solving API. It was working for the last few months and image captcha API. Now we are getting this error, and this has happe..."
+52808,"Dear, We apologize for the inconvenience. Please send us your page URL and Sitekey so we can report the issue to our internal team for investigation and feedback. We look forwar..."
+52845,You're welcome Thank you for your observation. We will investigate the issue with our technical teams to determine if it originates from our end and will address it promptly. We...
+52846,"Hello Saleh, Can you please provide me with more details please so I could help you with your issue. like how you request what is the method you are using and what the response ..."
+52869,Hello there! I have a question. I have a bot for a game. And this game periodically opens a pop-up embedded in the game to control bots and runs a web page within this pop-up. t...
+52883,"I'm trying to solve a captcha but I'm gettin the ERROR_CAPTCHA_UNSOLVABLE over and over again, is not a enterprice captcha, and this is the site https://numeracionyoperadores.cn..."
+52908,"After trying the API with success and retrieve the token given, I still receive &quot;invalid request&quot; with the token. I hope I'm not doing anything wrong, I will leave my ..."
+52918,"Hi, I´m trying to solve hCaptcha from this link https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=15500905900292024 but just ..."
+52922,"Dear, Can you upload the error you have encountered while solving through imgur and share the link here so we can investigate the issue and feed you back. We look forward to see..."
+52931,requesting free trail to test and your api can i use it in python and how to use it can you provide an example because i can't find it in the website and there is anyway to pay ...
+52934,"My code is not working please help: def solve_captchaai(self, data: dict[str, Any]) -&gt; str: try: # Prepare the task data if data[&quot;sitekey&quot;] == &quot;6LeO36obAAAAALS..."
+52954,i can't understand that is that possible ??? are you company ??? you are doing that every time
+52968,here is the code which your team requested i sent to you so captcha ai can be configured into the config from google.cloud import vision import logging logger = logging.getLogge...
+52971,"i have buy 5 thread to do the test, the token of reCAPTCHA V3 seems has different length of other captch provider, and it's alway detected as robot by https://fr.tlscontact.com'..."
+52984,Hello! Something broke in the last month. When passing the parameter &quot;module&quot; I get &quot;INTERNAL_ERROR&quot; in the response for image captcha solving. I send a base...
+53009,"Hello, Captcha is not working properly for https://mydomainprovider.com/contact_domain link as giving below error. Please go through the link once. Error: ERROR_CAPTCHA-UNSOLVAB..."
+53020,I tried many time in this website but reply not setisfied. Me i just want grid numeric captcha solition my developer cant solving problem in javascript bot emulater not working ...
+53028,"Hello, I think I solve this problem! If it perssist again, I will contact you! Thank you"
+53072,"Hello, we wanted to try your service to solve hCaptchas, unfortunately we seem to only get ERROR_CAPTCHA_UNSOLVABLE errors. Is this expected or an error with the specific site w..."
+53086,"i test your chrome extension on hcaptcha's demo page, like this: https://accounts.hcaptcha.com/demo?sitekey=e18a349a-46c2-46a0-87a8-74be79345c92 but it could not solve the hcapt..."
+53125,"is resolving the hcaptcha an error? Task ID received: 4769075113 Attempt 1/30: { status: 0, request: 'CAPCHA_NOT_READY' } Attempt 2/30: { status: 0, request: 'CAPCHA_NOT_READY' ..."
+53147,"Hello, Thank you for your interest in using CaptchaAI with your crawler! To integrate CaptchaAI effectively, we recommend reviewing our API documentation to ensure proper setup ..."
+53151,"Dear, You can do so through the link below: https://help.captchaai.com/en/articles/7907602-obtain-further-knowledge-about-custom-image-modules If you can't find the right module..."
+53156,"captcha can't resolve, i use insomniea(like postman) to test google recaptchav2 but response output always like this { &quot;status&quot;: 0, &quot;request&quot;: &quot;CAPCHA_N..."
+53173,"Hi, While testing your platform I'm unable to get a succesful response for this captcha. It's important for my client to be able to bypass this one, may you advise how to solve ..."
+53227,"Dear, Your issue has been forwarded to our code team and I hope you get the proper help there. In case your trial expires while trying, you can request a new one."
+53233,"Hello Sir, We tested our extension with the URL you provided, and the automatic submission appears to work very well on this website. Could you please provide more details about..."
+53295,"Hello, it sometimes takes a few minutes to resolve hCaptcha, why? const solveCaptcha = async (WEBSITE_URL, SITE_KEY, API_KEY) =&gt; { try { const submissionURL = `https://ocr.ca..."
+53324,"im back, also hcaptcha is not working at all, i tested it with 2 sites already and none worked, it gives ERROR_CAPTCHA_UNSOLVABLE."
+53328,"I don't actually get any error, but the response to POST /in in; CaptchaAI**IN"
+53359,service not working
+53369,"Hello, I was able to solve my API key problems. Now I am having an issue with hCaptchas. They all return UNSOLVABLE. Do you support solving the graphical hCaptchas? Is it possib..."
+53370,"The issue is that when I use a Python script to solve reCAPTCHA v2, it takes around 3 minutes to complete. Additionally, when I use a Chrome extension, it either displays an err..."
+53377,"Hello, I used your service to solve HCaptcha and you guys give me a 1day trial account. i tried using the API_key to solve a hCaptcha for the website. url = &quot;https://soluco..."
+53448,"Hello, I get this error since yesterday for all my requests : ERROR_CAPTCHA_UNSOLVABLE I solve hcaptchas. It used to work good the days before, I didn't change anything. Best,"
+53449,"Hello Sir, Thank you for bringing this to our attention. We’ve checked our systems, and everything appears to be running smoothly on our end. Could you please provide more detai..."
+53483,"The captcha gives an incorrect solution to many of the operations that appear to it. My account shows that I performed a large number of operations, but more than 80% of them we..."
+53488,"Hello Sir, We understand your frustration and apologize for the ongoing difficulties with our service. I want to let you know that we are currently working on an update to our s..."
+53523,why hcaptcha code not working?
+53544,"Hello Sir, We are committed to resolving your issue swiftly. Could you please specify if you are using any third-party tools or specific configurations so we can provide you wit..."
+53555,"Hi, Brought a sub today to try your recaptcha v2 solving. it keeps retuning this.. CAPTCHA submitted successfully. ID: 5055991000 CAPTCHA not ready yet, retrying... CAPTCHA not ..."
+53560,"here is my code func SolveRecapCaptchaAi(apiKey, siteKey, pageUrl string) (string, error) { // Prepare the CaptchaAI API endpoint apiUrl := &quot;https://ocr.captchaai.com/in.ph..."
+53566,"Hi there, I am quite a big potential client. However, I am facing an issue. I am getting this error: https://prnt.sc/3prznnjJFu5f despite putting in the right API key: 7026cab6c..."
+53598,"Hello, Captcha is not working for https://mydomainprovider.com/contact_domain/....could you please check."
+53618,I hope this message finds you well. I am currently experiencing an issue where I am unable to access the website www.captchaai.com on my network. The website does not load on mu...
+53652,"In rankerx Emulator software not work, please resolve my problem"
+53653,"Emulator software not work in windows 11 ( administrator ), please solve this problem"
+53654,"I'm trying to solve a recaptcha through CaptchaAI, but it's not being answered. I'm sending the link, the googlekey, and the type of recaptcha visibility. The return is always '..."
+53658,I am having trouble solving this captcha. Can anyone help? This is my code in Python. import requests import requests import re import threading import random import os import t...
+53685,I am using it on the GSA contact form but the Recpatcha and Hcaptcha failed. Is I am missing something in the setting or what? Let me know. Thanks Screen shot: https://ibb.co/j9...
+53688,"Hello i Put my apy Key in openbullet 2, but If i Put the Button for Safe it is not working."
+53690,Hello can you check with me my settings in openbullet If i send Screenshots because somethink must bei wrong but i don't now
+53700,"Hi, I'm trying to access a target website that uses reCAPTCHA v3. I used CaptchaAI to generate a reCAPTCHA response, but the string length it returned is 1060 characters. Howeve..."
+53701,"Hello, As I was informed by the support team, the issue you are facing is because you did not run the setup file as an administrator. Could you please try running it that way?"
+53721,I am unable to pass the verification using the token returned by captchaai on the website https://www.jbhunt.com/track-shipments/?v=4VY0586&amp;v=4VY0581. Could you please sugge...
+53736,"I have a doubt, I put the api with 200 threads in two vps where I have an openbullet 2 running a web scrapping configuration for my amazon project on dropshipping, in each vps h..."
+53747,"Hello, I hope this message finds you well. To better assist you, could you please provide more information about the issue you're facing? Specifically, it would be helpful to kn..."
+53762,"Hello, I'm sorry for the delay and appreciate your patience. To help us better understand and resolve the issue with reCAPTCHA v3 on your site, could you please provide some add..."
+53771,"Hello, i had captcha solving for an activision page (https://support.activision.com/privacy/request) and it was working fine, but now i'm getting an error message from them, i t..."
+53789,"Dear, Thank you for bringing this to our attention. We are currently working on updating our OCR models, as we have encountered some unexpected issues affecting case sensitivity..."
+53790,"Dear, I am writing to report a concern with the CAPTCHA solving results returned by your service. I have noticed that the results are consistently returned in lowercase, regardl..."
+53793,Hi I want to know what you mean by pageurl here https://ocr.captchaai.com/in.php?key=347bc2896fc1812d3de5ab56a0bf4ea7&amp;method=userrecaptcha&amp;version=v3&amp;action=verify&a...
+53795,"Hello , We are committed to resolving your issue swiftly. Could you please specify if you are using any third-party tools or specific configurations so we can provide you with m..."
+53797,"I don't know which cookies are you talking about, here is my request sample. I have added useragent and proxy but still it is taking more than two minutes. import requests from ..."
+53799,"Hello [Support Team/Customer Service], I am writing to report a recent issue I've encountered with your OCR service, which previously worked well for my needs. Up until about a ..."
+53800,"{&quot;message&quot;:&quot;reCAPTCHA process failed&quot;,&quot;error&quot;:[&quot;invalid-keys&quot;]}"
+53811,1. usually latest replies are at the top but this ticket have messges is old-&gt;new orders . hence i missed 2. i am using 2captcha 3. is there any way i can get some graphs lik...
+53812,"It looks like the website you’re accessing has detected automated behavior, which can sometimes happen when using automatic reCAPTCHA solutions. Here are some best practices to ..."
+53820,"Hello, We wanted to follow up and check if you're still experiencing the same issue. We've been working on system improvements, and we'd appreciate your feedback on whether you'..."
+53848,Hello Sir/Madam Thank you for bringing this to our attention. There have been some updates to the system. We are aware of the issue affecting your progress. We are actively work...
+53860,"Hello, To assist you better, could you please provide more details about the issue you're experiencing? Specifically, it would be helpful to know the method you're using and any..."
+53863,As per my understanding the Auto Solve(is enabled) is causing this issue
+53874,I've tried your reCAPTCHA V3 solver and it's return tokens but they are always wrong. I've tried many reCAPTCHA V3 solvers and same result. The only worked solution is nextcaptc...
+53895,"check , i cant work when it fails like this , cant pass , has been down for 4 days , the stream number is still working , but the token can not pass , please check the token for..."
+53898,"Hello Apologies for the delayed response — we were facing some technical issues on our end. To get started, please follow the steps outlined in the guide below to download and r..."
+53901,"Dear, Welcome to CaptchaAi I am really sorry you experienced this issue. Let's forward your case to our &quot;Code&quot; team and we will take necessary actions to address your ..."
+53913,"Please fix the captchaai token error, I can't use it because it's broken. Please fix captchaai token error, I can't use it because it's broken. Please check and fix captchaai to..."
+53914,"please fix it as soon as possible so i can work Please fix the captchaai token error, I can't use it because it's broken."
+53930,"Please fix the captchaai code, I can't use it because it's broken. Please check and fix the captchaai code on your side please fix it as soon as possible so I can work, I'm pani..."
+53947,"tonken captchaai it is broken and can not pass captcha , i can not use it in work , please fix it now"
+53973,So I found out an issue here which goes against my setup. CaptchaAI emulator will not work with XEVIL 6.0(latest) together because xevil blocks C:\Windows\System32\drivers\etc\h...
+53974,"I hope this message finds you well. To better assist you, could you please provide more information about the issue you're facing? Specifically, it would be helpful to know the ..."
+53997,"I'm encountering the ERROR_CAPTCHA_UNSOLVABLE issue with reCAPTCHA v2 when making API requests. This problem started approximately 1-2 days ago, but prior to that everything was..."
