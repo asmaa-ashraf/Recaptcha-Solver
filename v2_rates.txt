@@ -1,0 +1,1 @@
+{"success": 2, "fail": 1, "success_rate": 66.66666666666667, "time_medium": 67.12606137990952, "failed to get the site key: Did not capture the site key": 1, "urls":["https://squareblogs.net/signup"]}
